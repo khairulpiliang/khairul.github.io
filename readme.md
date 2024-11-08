@@ -18,6 +18,6 @@ This website is built with HTML and CSS, and hosted using GitHub Pages. To view 
 I am Khairul Aman, an Electrical Engineering graduate with a passion for AI and technology-driven solutions. I have experience in AI and embedded systems and look forward to expanding my knowledge and projects in these areas.
 
 ## Contact
-- Email: khairulaman@example.com
+- Email: khairul.aman415@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/khairulaman)
 - GitHub: [GitHub Profile](https://github.com/khairulaman)
